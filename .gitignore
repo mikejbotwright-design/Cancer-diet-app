@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment variable files
+.env
+
+# Expo files
+.expo/
+
+# Build files
+/build/
+
+# IDE files
+/.idea/
+/.vscode/
