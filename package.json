@@ -1,0 +1,1 @@
+{\n  \"name\": \"cancer-diet-app\",\n  \"version\": \"1.0.0\",\n  \"dependencies\": {\n    \"expo\": \"^40.0.0\",\n    \"react\": \"16.13.1\",\n    \"react-native\": \"https://github.com/expo/react-native/archive/sdk-40.0.0.tar.gz\"\n  }\n}
